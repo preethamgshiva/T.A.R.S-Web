@@ -1,0 +1,76 @@
+.chatbot {
+    border: none;
+    color: green;
+  }
+  
+  .output-area {
+    width: 95%;
+    height: 400px;
+    padding: 10px;
+    border: 1px solid green;
+    background-color: #000000;
+    margin-bottom: 10px;
+    color: #00ff00;
+    text-shadow: 0 0 3px #00ff00;
+  }
+  
+  .output_area {
+    width: 100%;
+    margin: 10px auto;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #000000;
+  }
+  
+  .prompt {
+    width: 90%;
+    height: 30px;
+    border: green 1px solid;
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    text-shadow: 0 0 3px white;
+  }
+  
+  .prompt-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .voice-input-btn {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    height: 40px;
+    border-radius: 100%;
+    width: 40px;
+  }
+  
+  .btn-grp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .sub-btn {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    height: 40px;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .fa {
+    background-color: green;
+  }
+  
