@@ -9,9 +9,9 @@ create a backend file and run it as mentioned in the fille itself.
 
 
 <h3>Features:</h3>
-<li>
-  <ul>Ask for a program in python or any language.</ul>
-  <ul>Download the code in .py format or .txt format as required.</ul>
-  <ul>Set the personality of the Chatbot as required.</ul>
-  <ul>Clear the context to delete the memory of the chatbot/model.</ul>
-</li>
+<ol>
+  <li>Ask for a program in python or any language.</li>
+  <li>Download the code in .py format or .txt format as required.</li>
+  <li>Set the personality of the Chatbot as required.</li>
+  <li>Clear the context to delete the memory of the chatbot/model.</li>
+</ol>
